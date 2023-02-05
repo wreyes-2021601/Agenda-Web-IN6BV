@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1{
+    color: white;
+}
+
+body{
+    background: linear-gradient(to right, #008080, #00FF00);
+}
+
+nav ul{
+    text-align: center;
+    margin-top: 20px;
+    font-size: 25px;
+}
+
+nav a{
+    color: #000;
+}
+
+.form{
+    width: 400px;
+    padding: 30px;
+    background: #24303c;
+    margin: auto;
+    margin-top: 100px;
+    border-radius: 4px;
+    box-shadow: 7px 13px 37px #000;
+}
+
+
+.form h1{
+    font-size: 25px;
+    margin-bottom: 20px;
+}
+
+.formulario{
+    width: 100%;
+    background: #24303c;
+    padding: 10px;
+    border-radius: 4px;
+    margin-bottom: 20px;
+    border: 1px solid #1f53c5;
+}
+
+form a{
+    color: white;
+    text-align: center;
+    margin-left: 265px;
+    margin-top: 30px;
+}

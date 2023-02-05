@@ -1,0 +1,46 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+h1{
+ text-align: center;
+}
+
+nav ul{
+    width: 100%;
+    list-style-type: none;
+    text-align: center;
+    padding: 5px;
+}
+
+nav li{
+    display: inline-flex;
+}
+
+nav a{
+    color: black;
+    padding: 20px;
+    font-size: 20px;
+}
+
+body{
+    background: linear-gradient(to right, #008080, #00FF00);
+}
+
+.container{
+    text-align: center;
+}
+
+.col{
+    border: 1px solid #000;
+}
+
+.row{
+    margin-top: 40px;
+    border: 1px solid #000;
+}
+
+.contenido{
+    font-size: 25px;
+}
